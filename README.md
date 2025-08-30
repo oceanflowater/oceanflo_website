@@ -1,6 +1,6 @@
 # 🌊 Oceanflo - Company Website (Not Publicly Deployed)
 
-# NOTE: This is not publicly deployed. and any instructions in this README are for internal use only. also this is not the final version of the website. the final version is in a different github repository. and will be updated here after 2-3 days of development.
+## NOTE: This is not publicly deployed. and any instructions in this README are for internal use only. also this is not the final version of the website. the final version is in a different github repository. and will be updated here after 2-3 days of development.
 
 > **Elevate how you hydrate with Oceanflo** 💧
 
