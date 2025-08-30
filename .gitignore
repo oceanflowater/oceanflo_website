@@ -1,0 +1,32 @@
+# Dependencies
+node_modules
+
+# Next.js build output
+.next
+out
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode
+.idea
+
+# Optional: lockfiles (if you don’t want to commit them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml

@@ -1,0 +1,18 @@
+/* TEAM */
+    Developer: Oceanflo Manufacturing Team
+    Contact: work@oceanflo.xyz
+    From: India
+    Industry: Water Manufacturing & Distribution
+    Specialization: Packaged Mineral Drinking Water
+
+/* SITE */
+    Last update: 2025/01/01
+    Language: English, Hindi
+    Doctype: HTML5
+    IDE: Next.js
+    Standards: HTML5, CSS3, JavaScript ES6+
+    Components: React, TypeScript
+    Software: Visual Studio Code, Node.js
+    Business Type: Manufacturing Company
+    Product: Packaged Mineral Drinking Water
+    Target Market: Local Water Dealers & Distributors
